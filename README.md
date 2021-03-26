@@ -1,4 +1,4 @@
-# function uipath_loadScrapeRPAMarketWatchlist() {
+function uipath_loadScrapeRPAMarketWatchlist() {
     let process_name = "ScrapeIndeed";
     let arguments = {};
     const robot = UiPathRobot.init();
